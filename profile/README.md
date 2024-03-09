@@ -55,3 +55,11 @@ _____
 
 
 ---
+
+## Main control layer repositories for devices
+
+1. `mainframe`: Network admin node - two Raspberry Pi 4B SoC devices.
+2. `cluster_head`: Remote Access control tool.
+3. `scope-cli`: Trappy-Scopes based on Raspberry Pi 4B SoC.
+4. `pico_firmware`: Firmware for Raspberry Pi pico W MCUs.
+
