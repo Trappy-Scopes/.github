@@ -47,7 +47,7 @@ _____
 ### Lab Management / Experiment Repositories
 
 1. `cell_counts` : Repository database for cell counting and automatic plotting of growth curves.
-2. `lab` : Repository for stocks, cell_culture logs, and protocols.
+2. `lab` : Repository for stocks, cell_culture logs, etc. [organised]
 3. `notes `: Repository to sync notes, pdf, other stuff.
 4. `scratch `: Repository for sharing jupyter notebooks that are not cleaned, etc.
 5. `experiments_yb` : Analysis notebooks for YB.
