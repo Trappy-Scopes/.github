@@ -27,13 +27,13 @@ _____
 ### Canonical repositiries
 
 1. [`scope_cli`](https://github.com/Trappy-Scopes/scope-cli) : Control layer software for <u>controlling</u> Trappy-Scopes microscopy system.
-2. `cluster_head` : Control layer software for <u>multiplexing microscopes</u>.
-3. `pico_firmware`: Common firmware for all Raspberry Pi Pico W devices.
-4. `rip_config` : Configuration software for all Raspberry Pi 4B SoC devices.
-5. `electronics` : Circuit diagrams and database of custom electronic assemblies and circuit boards.
-6. `assembly_peripherals` : Repository of 3D models of Trappy-Scopes assembly parts.
-7. `analysis_pipeline` : Post-processing and analysis code. 
-8.  `systems_overview` : For an arial view of the lab system. [TODO]
+2. [`pico_firmware`](https://github.com/Trappy-Scopes/pico_firmware): Common firmware for all Raspberry Pi Pico W / micropython devices.
+3. [`trappyframe`](https://github.com/Trappy-Scopes/trappyframe): 3D printing files for the Trappy-Scopes frame.
+4. [`electronics`](https://github.com/Trappy-Scopes/electronics) : Circuit diagrams and database of custom electronic assemblies and circuit boards.
+5. `rip_config` : Configuration software for all Raspberry Pi 4B SoC devices.
+7. `assembly_peripherals` : Repository of 3D models of Trappy-Scopes assembly parts.
+8. `analysis_pipeline` : Post-processing and analysis code. 
+9.  `systems_overview` : For an arial view of the lab system. [TODO]
 
 ### Machine specific repositories
 
