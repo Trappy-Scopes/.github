@@ -26,7 +26,7 @@ _____
 
 ### Canonical repositiries
 
-1. `scope_cli` : Control layer software for <u>controlling</u> Trappy-Scopes microscopy system.
+1. [`scope_cli`](https://github.com/Trappy-Scopes/scope-cli) : Control layer software for <u>controlling</u> Trappy-Scopes microscopy system.
 2. `cluster_head` : Control layer software for <u>multiplexing microscopes</u>.
 3. `pico_firmware`: Common firmware for all Raspberry Pi Pico W devices.
 4. `rip_config` : Configuration software for all Raspberry Pi 4B SoC devices.
