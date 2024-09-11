@@ -46,11 +46,12 @@ _____
 
 ### Lab Management / Experiment Repositories
 
-1. `cell_counts` : Repository database for cell counting and automatic plotting of growth curves.
-2. `lab` : Repository for stocks, cell_culture logs, etc. [organised]
-3. `notes `: Repository to sync notes, pdf, other stuff.
-4. `scratch `: Repository for sharing jupyter notebooks that are not cleaned, etc.
-5. `experiments_yb` : Analysis notebooks for YB.
+1. [`lab`]((https://github.com/Trappy-Scopes/lab)) : Repository for stocks, cell_culture logs, etc.
+2. [`protocols`](https://github.com/Trappy-Scopes/protocols) : Repository of lab protocols.
+3. `cell_counts` : Repository database for cell counting and automatic plotting of growth curves.
+4. `notes `: Repository to sync notes, pdf, other stuff.
+5. `scratch `: Repository for sharing jupyter notebooks that are not cleaned, etc.
+6. `experiments_yb` : Analysis notebooks for YB.
 
 
 
