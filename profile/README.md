@@ -46,7 +46,7 @@ _____
 
 ### Lab Management / Experiment Repositories
 
-1. [`lab`]((https://github.com/Trappy-Scopes/lab)) : Repository for stocks, cell_culture logs, etc.
+1. [`lab`](https://github.com/Trappy-Scopes/lab)) : Repository for stocks, cell_culture logs, etc.
 2. [`protocols`](https://github.com/Trappy-Scopes/protocols) : Repository of lab protocols.
 3. `cell_counts` : Repository database for cell counting and automatic plotting of growth curves.
 4. `notes `: Repository to sync notes, pdf, other stuff.
