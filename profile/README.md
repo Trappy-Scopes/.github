@@ -32,7 +32,7 @@ _____
 4. [`electronics`](https://github.com/Trappy-Scopes/electronics) : Circuit diagrams and database of custom electronic assemblies and circuit boards.
 5. `rip_config` : Configuration software for all Raspberry Pi 4B SoC devices.
 7. `assembly_peripherals` : Repository of 3D models of Trappy-Scopes assembly parts.
-8. `analysis_pipeline` : Post-processing and analysis code. 
+8. [`trackyscope`](https://github.com/Trappy-Scopes/trackyscope) : Tracking pipeline and postprocessing code.
 9.  `systems_overview` : For an arial view of the lab system. [TODO]
 
 ### Machine specific repositories
