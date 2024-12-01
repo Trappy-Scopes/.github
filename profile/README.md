@@ -30,7 +30,7 @@ _____
 2. [`pico_firmware`](https://github.com/Trappy-Scopes/pico_firmware): Common firmware for all Raspberry Pi Pico W / micropython devices.
 3. [`trappyframe`](https://github.com/Trappy-Scopes/trappyframe): 3D printing files for the Trappy-Scopes frame.
 4. [`electronics`](https://github.com/Trappy-Scopes/electronics) : Circuit diagrams and database of custom electronic assemblies and circuit boards.
-5. `rip_config` : Configuration software for all Raspberry Pi 4B SoC devices.
+5. [`raspberry_shrub`](https://github.com/Trappy-Scopes/raspberry_shrub) : Configure Raspberry Pis for multiplexed operation.
 7. `assembly_peripherals` : Repository of 3D models of Trappy-Scopes assembly parts.
 8. [`trackyscope`](https://github.com/Trappy-Scopes/trackyscope) : Tracking pipeline and postprocessing code.
 9.  `systems_overview` : For an arial view of the lab system. [TODO]
