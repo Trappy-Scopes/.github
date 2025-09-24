@@ -31,7 +31,7 @@ _____
 3. [`trappyframe`](https://github.com/Trappy-Scopes/trappyframe): 3D printing files for the Trappy-Scopes frame.
 4. [`electronics`](https://github.com/Trappy-Scopes/electronics) : Circuit diagrams and database of custom electronic assemblies and circuit boards.
 5. [`raspberry_shrub`](https://github.com/Trappy-Scopes/raspberry_shrub) : Configure Raspberry Pis for multiplexed operation.
-7. `assembly_peripherals` : Repository of 3D models of Trappy-Scopes assembly parts.
+7. [`printables`](https://github.com/Trappy-Scopes/printables) : Misclaneous 3D models for lab use. 
 8. [`trackyscope`](https://github.com/Trappy-Scopes/trackyscope) : Tracking pipeline and postprocessing code.
 9.  [`microfluidics`](https://github.com/Trappy-Scopes/microfluidics) : Microfluidics design files and renderings.
 
