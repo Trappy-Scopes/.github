@@ -26,7 +26,7 @@ _____
 
 ### Canonical repositiries
 
-1. [`scope_cli`](https://github.com/Trappy-Scopes/scope-cli) : Control layer software for <u>controlling</u> Trappy-Scopes microscopy system.
+1. [`trappyscopes`](https://github.com/Trappy-Scopes/trappyscopes) : Control layer software for <u>controlling</u> Trappy-Scopes microscopy system.
 2. [`pico_firmware`](https://github.com/Trappy-Scopes/pico_firmware): Common firmware for all Raspberry Pi Pico W / micropython devices.
 3. [`trappyframe`](https://github.com/Trappy-Scopes/trappyframe): 3D printing files for the Trappy-Scopes frame.
 4. [`electronics`](https://github.com/Trappy-Scopes/electronics) : Circuit diagrams and database of custom electronic assemblies and circuit boards.
