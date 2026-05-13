@@ -64,3 +64,9 @@ _____
 3. `scope-cli`: Trappy-Scopes based on Raspberry Pi 4B SoC.
 4. `pico_firmware`: Firmware for Raspberry Pi pico W MCUs.
 
+---
+
+## Information flow
+
+![information_flow.drawio](information_flow.drawio.svg)
+
