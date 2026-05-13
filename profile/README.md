@@ -70,23 +70,23 @@ _____
 
 ## Information Pipeline
 
-<table align="center">
+<table align="center" border="0" cellspacing="20">
   <tr>
-    <td align="center">
+    <td align="center" border="0">
       <a href="https://github.com/Trappy-Scopes/trappyscopes">
-        <img src="https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trappyscope_icon.png" width="120"/>
+        <img src="https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trappyscope_icon.png" width="160"/>
       </a><br/><b>trappyscope</b><br/>Microscope Control Layer
     </td>
     <td align="center">➔</td>
     <td align="center">
       <a href="https://github.com/Trappy-Scopes/trackyscope">
-        <img src="https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trackyscope_icon.png" width="120"/>
+        <img src="https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trackyscope_icon.png" width="160"/>
       </a><br/><b>trackyscope</b><br/>Cell Tracking Pipeline
     </td>
     <td align="center">➔</td>
     <td align="center">
       <a href="https://github.com/Trappy-Scopes/trappytv">
-        <img src="https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trappytv_icon.png" width="120"/>
+        <img src="https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trappytv_icon.png" width="160"/>
       </a><br/><b>trappytv</b><br/>Visualisation and analysis tool
     </td>
   </tr>
