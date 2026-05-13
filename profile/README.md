@@ -66,45 +66,27 @@ _____
 
 ---
 
-```mermaid
---- 
-config: 
- theme: neutral
----
-flowchart LR
-
-    A["<img src='https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trappyscope_icon.png' width='60'/><br/><b>trappyscope</b><br/>Microscope Control Layer"]
-    B["<img src='https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trackyscope_icon.png' width='60'/><br/><b>trackyscope</b><br/>Cell Tracking Pipeline"]
-    C["<img src='https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trappytv_icon.png' width='60'/><br/><b>trappytv</b><br/>Visualisation and analysis tool"]
-
-    A --> B
-    B --> C
-
-    click A "https://github.com/Trappy-Scopes/trappyscopes"
-    click B "https://github.com/Trappy-Scopes/trackyscope"
-    click C "https://github.com/Trappy-Scopes/trappytv"
-
-```
 
 
+## Information Pipeline
 
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/Trappy-Scopes/trappyscope">
-        <img src="https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trappyscope_icon.png" width="100"/>
+      <a href="https://github.com/Trappy-Scopes/trappyscopes">
+        <img src="https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trappyscope_icon.png" width="120"/>
       </a><br/><b>trappyscope</b><br/>Microscope Control Layer
     </td>
     <td align="center">➔</td>
     <td align="center">
       <a href="https://github.com/Trappy-Scopes/trackyscope">
-        <img src="https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trackyscope_icon.png" width="100"/>
+        <img src="https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trackyscope_icon.png" width="120"/>
       </a><br/><b>trackyscope</b><br/>Cell Tracking Pipeline
     </td>
     <td align="center">➔</td>
     <td align="center">
       <a href="https://github.com/Trappy-Scopes/trappytv">
-        <img src="https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trappytv_icon.png" width="100"/>
+        <img src="https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trappytv_icon.png" width="120"/>
       </a><br/><b>trappytv</b><br/>Visualisation and analysis tool
     </td>
   </tr>
