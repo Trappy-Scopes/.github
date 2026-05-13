@@ -67,23 +67,21 @@ _____
 ---
 
 ```mermaid
----
-config:
-  theme: neutral
+--- 
+config: 
+ theme: neutral
 ---
 flowchart LR
 
-    A["<img src='https://github.com/Trappy-Scopes/.github/blob/main/profile/assets/trappyscope_icon.png?raw=true' width='80'/><b>trappyscope</b><br/>Microscope Control Layer"]
-    B["<img src='https://github.com/Trappy-Scopes/.github/blob/main/profile/assets/trackyscope_icon.png?raw=true' width='80'/><b>trackyscope</b><br>Cell Tracking Pipeline<br/>"]
-    C["<img src='https://github.com/Trappy-Scopes/.github/blob/main/profile/assets/trappytv_icon.png?raw=true' width='80'/><b>trappytv</b><br/>Visualisation and analysis tool"]
-    
+    A["<img src='https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trappyscope_icon.png' width='60'/><br/><b>trappyscope</b><br/>Microscope Control Layer"]
+    B["<img src='https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trackyscope_icon.png' width='60'/><br/><b>trackyscope</b><br/>Cell Tracking Pipeline"]
+    C["<img src='https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trappytv_icon.png' width='60'/><br/><b>trappytv</b><br/>Visualisation and analysis tool"]
 
     A --> B
     B --> C
 
-
-
     click A "https://github.com/Trappy-Scopes/trappyscopes"
     click B "https://github.com/Trappy-Scopes/trackyscope"
     click C "https://github.com/Trappy-Scopes/trappytv"
+
 ```
