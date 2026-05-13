@@ -86,7 +86,26 @@ flowchart LR
 
 ```
 
-![](https://mermaid.ink/svg/pako:eNq1U8GO2yAU_BX0LrkkxrGDk1jZSI173JWqdtVD66oimNhoMViAk6ZR_n2xE0ep1EMuiwTiwcx7wwAnYLrgkMJO6gOrqHHo-WuucoV8-_Qzh5WoS2QNexpVzjU2xdjQQ1AKV7Xb1nLDtHJcuYDpGr8a2jTHyTemG27xFYRrKhRujN4JyTG1ljuLXY-0HfC38CmCRpUjdBCFq55GSTjC69XWdMP6DrnC28vyi2BG90so8-WNluiZHrnJ4ddF-OYjhbO3R4UPyJvwjEuJXrsNoUr0RTRcCsVvsrMP9tvtHzLb7W-CvwvbUiksdUIrRFXhO5VHKyxyWste-fWtoMlkjTZX__sgG_aYFOzNI3IYznSR-p9D3F23zeGevnmQPpj-Lzt7vLjbd1QYQ2lEAakzLR9DzY331Ydw6tLm4Cpe-xqpnyreeqbsWGdPa6j6oXU9MI1uy2oI2qagjn8WtDTUI3ZU2g7CVcFNplvlIJ1Gsz4HpCf4A2k0jYKILOJpGC7ieUJIMoYjpLN5QJLFch7G8TIMZ3GSnMfwty8bBmRK4ojEMUnCJUkiMgZeCKfNy-Wr9z_-_A7Sj1l_)
 
 
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Trappy-Scopes/trappyscope">
+        <img src="https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trappyscope_icon.png" width="100"/>
+      </a><br/><b>trappyscope</b><br/>Microscope Control Layer
+    </td>
+    <td align="center">➔</td>
+    <td align="center">
+      <a href="https://github.com/Trappy-Scopes/trackyscope">
+        <img src="https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trackyscope_icon.png" width="100"/>
+      </a><br/><b>trackyscope</b><br/>Cell Tracking Pipeline
+    </td>
+    <td align="center">➔</td>
+    <td align="center">
+      <a href="https://github.com/Trappy-Scopes/trappytv">
+        <img src="https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trappytv_icon.png" width="100"/>
+      </a><br/><b>trappytv</b><br/>Visualisation and analysis tool
+    </td>
+  </tr>
+</table>
