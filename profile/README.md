@@ -74,7 +74,7 @@ _____
   <tr>
     <td align="center" border="0">
       <a href="https://github.com/Trappy-Scopes/trappyscopes">
-        <img src="https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trappyscope_icon.png" width="160"/>
+        <img src="https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trappyscopes_icon.png" width="160"/>
       </a><br/><b>trappyscope</b><br/>Microscope Control Layer
     </td>
     <td align="center">➔</td>
@@ -91,3 +91,6 @@ _____
     </td>
   </tr>
 </table>
+
+
+
