@@ -73,21 +73,27 @@ _____
 <table align="center" border="0" cellspacing="20">
   <tr>
     <td align="center" border="0">
-      <a href="https://github.com/Trappy-Scopes/trappyscopes">
-        <img src="https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trappyscopes_icon.png" width="160"/>
-      </a><br/><b>trappyscope</b><br/>Microscope Control Layer
+      <a href="https://github.com/Trappy-Scopes/">
+        <img src="https://github.com/Trappy-Scopes/.github/blob/main/profile/assets/processes/4steps_without_text/connect_components.png?raw=true" width="160"/>
+      </a><br/><b>Connect components</b>
     </td>
     <td align="center">➔</td>
     <td align="center">
-      <a href="https://github.com/Trappy-Scopes/trackyscope">
-        <img src="https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trackyscope_icon.png" width="160"/>
-      </a><br/><b>trackyscope</b><br/>Cell Tracking Pipeline
+      <a href="https://github.com/Trappy-Scopes/">
+        <img src="https://github.com/Trappy-Scopes/.github/blob/main/profile/assets/processes/4steps_without_text/install_trappyscopes.png?raw=true" width="160"/>
+      </a><br/><b>Install python package</b>
     </td>
     <td align="center">➔</td>
     <td align="center">
-      <a href="https://github.com/Trappy-Scopes/trappytv">
-        <img src="https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trappytv_icon.png" width="160"/>
-      </a><br/><b>trappytv</b><br/>Visualisation and analysis tool
+      <a href="https://github.com/Trappy-Scopes/">
+        <img src="https://github.com/Trappy-Scopes/.github/blob/main/profile/assets/processes/4steps_without_text/trappyconfig.png?raw=true" width="160"/>
+      </a><br/><b>Describe the instrument</b><br/>
+    </td>
+    <td align="center">➔</td>
+    <td align="center">
+      <a href="https://github.com/Trappy-Scopes/">
+        <img src="https://github.com/Trappy-Scopes/.github/blob/main/profile/assets/processes/4steps_without_text/collect_data.png?raw=true" width="160"/>
+      </a><br/><b>Collect data</b><br/>
     </td>
   </tr>
 </table>
