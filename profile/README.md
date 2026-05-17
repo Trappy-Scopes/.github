@@ -94,20 +94,26 @@ _____
   <tr>
     <td align="center" border="0">
       <a href="https://github.com/Trappy-Scopes/trappyscopes">
-        <img src="https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trappyscopes_icon.png" width="160"/>
+        <img src="https://github.com/Trappy-Scopes/.github/blob/main/profile/assets/processes/4steps_without_text/collect_data.png?raw=true" width="160"/>
       </a><br/><b>trappyscope</b><br/>Microscope Control Layer
     </td>
     <td align="center">➔</td>
     <td align="center">
       <a href="https://github.com/Trappy-Scopes/trackyscope">
-        <img src="https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trackyscope_icon.png" width="160"/>
+        <img src="https://github.com/Trappy-Scopes/.github/blob/main/profile/assets/information_icons/trackyscope_icon.png?raw=true" width="160"/>
       </a><br/><b>trackyscope</b><br/>Cell Tracking Pipeline
     </td>
     <td align="center">➔</td>
     <td align="center">
       <a href="https://github.com/Trappy-Scopes/trappytv">
-        <img src="https://raw.githubusercontent.com/Trappy-Scopes/.github/main/profile/assets/trappytv_icon.png" width="160"/>
+        <img src="https://github.com/Trappy-Scopes/.github/blob/main/profile/assets/information_icons/trappytv_icon.png?raw=true" width="160"/>
       </a><br/><b>trappytv</b><br/>Visualisation and analysis tool
+    </td>
+  <td align="center">⊙</td>
+  <td align="center">
+      <a href="https://github.com/Trappy-Scopes/trappy-explorer">
+        <img src="https://github.com/Trappy-Scopes/.github/blob/main/profile/assets/information_icons/trappy_explorer_icon.png?raw=true" width="160"/>
+      </a><br/><b>trappy-explorer</b><br/>Data exploration library
     </td>
   </tr>
 </table>
