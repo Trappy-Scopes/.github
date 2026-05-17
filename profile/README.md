@@ -2,7 +2,7 @@
 
 
 
-Trappy-Scopes is a bespoke parallel microscopy system developed at the **Living Physics Laboratory**, situated at the *Instituto Gulbenkian de Ciência (IGC), Lisbon*.
+Trappy-Scopes is a bespoke parallel microscopy system developed at the **Living Physics Laboratory**, at the Gulbenkian Institute of Molecular Medicine (GIMM).
 
 ```goat
   *     ████████╗    ██████╗      █████╗     ██████╗     ██████╗     ██╗   ██╗
@@ -63,27 +63,27 @@ _____
 <table align="center" border="0" cellspacing="20">
   <tr>
     <td align="center" border="0">
-      <a href="https://github.com/Trappy-Scopes/">
-        <img src="https://github.com/Trappy-Scopes/.github/blob/main/profile/assets/processes/4steps_without_text/connect_components.png?raw=true" width="160"/>
-      </a><br/><b>Connect components</b>
+      <a href="https://github.com/Trappy-Scopes/trappyframe">
+        <img src="https://github.com/Trappy-Scopes/.github/blob/main/profile/assets/hardware_icons/trappyframe_icon.png?raw=true" width="160"/>
+      </a><br/><b>trappyframe</b><br>Assemble a frame
     </td>
     <td align="center">➔</td>
     <td align="center">
-      <a href="https://github.com/Trappy-Scopes/">
-        <img src="https://github.com/Trappy-Scopes/.github/blob/main/profile/assets/processes/4steps_without_text/install_trappyscopes.png?raw=true" width="160"/>
-      </a><br/><b>Install python package</b>
+      <a href="https://github.com/Trappy-Scopes/raspberry_shrub">
+        <img src="https://github.com/Trappy-Scopes/.github/blob/main/profile/assets/hardware_icons/cluster_logo.png?raw=true" width="160"/>
+      </a><br/><b>raspberry shrub</b><br>Assemble many frames
     </td>
     <td align="center">➔</td>
     <td align="center">
-      <a href="https://github.com/Trappy-Scopes/">
-        <img src="https://github.com/Trappy-Scopes/.github/blob/main/profile/assets/processes/4steps_without_text/trappyconfig.png?raw=true" width="160"/>
-      </a><br/><b>Describe the instrument</b><br/>
+      <a href="https://github.com/Trappy-Scopes/electronics">
+        <img src="https://github.com/Trappy-Scopes/.github/blob/main/profile/assets/hardware_icons/electronics_icon.png?raw=true" width="160"/>
+      </a><br/><b>electronics</b><br/>Get electronics
     </td>
     <td align="center">➔</td>
     <td align="center">
-      <a href="https://github.com/Trappy-Scopes/">
-        <img src="https://github.com/Trappy-Scopes/.github/blob/main/profile/assets/processes/4steps_without_text/collect_data.png?raw=true" width="160"/>
-      </a><br/><b>Collect data</b><br/>
+      <a href="https://github.com/Trappy-Scopes/pico_firmware">
+        <img src="https://github.com/Trappy-Scopes/.github/blob/main/profile/assets/hardware_icons/firmware_icon.png?raw=true" width="160"/>
+      </a><br/><b>firmware</b><br/>Flash firmware
     </td>
   </tr>
 </table>
